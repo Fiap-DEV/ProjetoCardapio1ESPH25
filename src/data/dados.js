@@ -4,7 +4,7 @@ const menu=[
         titulo:"Jogo 1",
         categoria:"acao",
         preco:200.00,
-        img:"./src/assets/img1.jpg",
+        img:"/public/img1.jpg",
         descricao:"Jogo de ação 1"
     },
        {
@@ -12,7 +12,7 @@ const menu=[
         titulo:"Jogo 2",
         categoria:"acao",
         preco:20.00,
-        img:"./src/assets/img1.jpg",
+        img:"/public/img1.jpg",
         descricao:"Jogo de ação 2"
     },
      {
@@ -20,7 +20,7 @@ const menu=[
         titulo:"Jogo 3",
         categoria:"acao",
         preco:70.00,
-        img:"./src/assets/img1.jpg",
+        img:"/public/img1.jpg",
         descricao:"Jogo de ação 3"
     },
      {
@@ -28,7 +28,7 @@ const menu=[
         titulo:"Jogo 4",
         categoria:"aventura",
         preco:600.00,
-        img:"./src/assets/img2.jpg",
+        img:"/public/img2.jpg",
         descricao:"Jogo de aventura 1"
     },
     {
@@ -36,7 +36,7 @@ const menu=[
         titulo:"Jogo 5",
         categoria:"aventura",
         preco:600.00,
-        img:"./src/assets/img2.jpg",
+        img:"/public/img2.jpg",
         descricao:"Jogo de aventura 5"
     },
     {
@@ -44,7 +44,7 @@ const menu=[
         titulo:"Jogo 6",
         categoria:"terror",
         preco:250.00,
-        img:"./src/assets/img3.jpg",
+        img:"/public/img3.jpg",
         descricao:"Jogo de terror 1"
     },
 ]
